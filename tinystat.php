@@ -119,11 +119,6 @@ class tinystat implements gauss{
 
     }
 
-    public function values($data){
-
-        return null;
-
-    }
 
 }
 

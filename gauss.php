@@ -11,7 +11,7 @@ interface gauss{
     public function range($data);
     public function median($data);
     public function abs_frec($data,$num);
-    public function values($data);
+
 
 }
 
